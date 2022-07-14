@@ -1,0 +1,1 @@
+# java-not-ortalamasi-hesapla
